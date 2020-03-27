@@ -38,5 +38,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  an_array = ["wow","am", "is","an", "array", "arrays!"]
+  an_array[-1]
 end
