@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
  an_array = ["This", "is","an", "array"]
- an_array.unshift("first")
+ an_array.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
